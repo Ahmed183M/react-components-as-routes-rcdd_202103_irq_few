@@ -35,6 +35,7 @@ const Login = () => {
     </div>
   );
 };
+
 ReactDOM.render(
   <Router>
   <Route path="/" component={Home} />
